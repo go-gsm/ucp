@@ -6,6 +6,9 @@ go:
 os:
   - linux
   - osx
+  
+before_install:
+  - go get github.com/mattn/goveralls
 
 env:
   - GO111MODULE=on
@@ -13,3 +16,4 @@ env:
 script:
   - go build -v
   - go test -v -cover -race
+  - goveralls -v
