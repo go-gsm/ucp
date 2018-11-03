@@ -1,0 +1,6 @@
+github.com/go-gsm/charset v1.0.0 h1:6k6LOKHtxgCPXE15X0unRewjOksyhmHBIp6x7qLQ6Ls=
+github.com/go-gsm/charset v1.0.0/go.mod h1:sC8+2VpAM2sZDlxv11MxWIZiuf8MipOgM/hCYsRQRps=
+golang.org/x/net v0.0.0-20181102091132-c10e9556a7bc h1:ZMCWScCvS2fUVFw8LOpxyUUW5qiviqr4Dg5NdjLeiLU=
+golang.org/x/net v0.0.0-20181102091132-c10e9556a7bc/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2 h1:+DCIGbF/swA92ohVg0//6X2IVY3KZs6p9mix0ziNYJM=
+golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2/go.mod h1:tRJNPiyCQ0inRvYxbN9jk5I+vvW/OXSQhTDSoE431IQ=
