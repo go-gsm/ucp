@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/go-gsm/ucp.svg?branch=master)](https://travis-ci.org/go-gsm/ucp) [![GoDoc](https://godoc.org/github.com/go-gsm/ucp?status.svg)](https://godoc.org/github.com/go-gsm/ucp) [![Coverage Status](https://coveralls.io/repos/github/go-gsm/ucp/badge.svg?branch=master)](https://coveralls.io/github/go-gsm/ucp?branch=master)
+[![Build Status](https://travis-ci.org/go-gsm/ucp.svg?branch=master)](https://travis-ci.org/go-gsm/ucp) [![GoDoc](https://godoc.org/github.com/go-gsm/ucp?status.svg)](https://godoc.org/github.com/go-gsm/ucp) [![Coverage Status](https://coveralls.io/repos/github/go-gsm/ucp/badge.svg?branch=master)](https://coveralls.io/github/go-gsm/ucp?branch=master)[![Go Report Card](https://goreportcard.com/badge/github.com/go-gsm/ucp)](https://goreportcard.com/report/github.com/go-gsm/ucp)
 
 ## ucp
 
